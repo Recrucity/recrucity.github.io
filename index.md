@@ -1,15 +1,5 @@
 ## My Programs:
-### [Link](https://www.google.com/)
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+[Link](https://www.google.com)
 
 - Bulleted
 - List
